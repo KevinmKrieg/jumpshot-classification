@@ -1,7 +1,7 @@
 %% Kinesiology 531 Final Prokject
 % Author: Kevin Krieg
 % Import Data
-krieg_import_script
+data_import_script
 
 % Exploratory Visualization Attempts
 prev_sec = zeros(100);
